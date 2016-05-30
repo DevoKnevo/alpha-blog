@@ -1,35 +1,4 @@
-#container {
-  background-image: url("marble.jpeg");
-  background-size: 100% 100%;
-}
-#header {
-  font-family: helvetica;
-  color: white;
-  font-size: 24px;
-  font-weight: bold;
-  padding-left: 10px;
-  padding-bottom: 5px;
-  padding-top: 100px;
-}
-#navbar {
-  background-color: lightgray;
-  opacity: 0.75;
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-.navoption {
-  font-family: helvetica;
-  color: black;
-  font-size: 18px;
-  font-weight: bold;
-  padding-left: 10px;
-}
-a {
-  text-decoration: none;
-}
-a:visited {
-  color: inherit;
-}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
